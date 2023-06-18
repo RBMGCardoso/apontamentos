@@ -1,2 +1,2 @@
-origin	git@github.com:RBMGCardoso/apontamentos.git (fetch)
-origin	git@github.com:RBMGCardoso/apontamentos.git (push)
+Everything up-to-date
+branch 'main' set up to track 'origin/main'.
